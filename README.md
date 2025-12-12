@@ -4,7 +4,7 @@
 
 作者：ch-vpn  
 
-日期：2025-11-20
+日期：2025-12-12
 
 标签：Fnfun-VPN,科学上网, VPN, 翻墙,梯子,机场,Hysteria2,Vless+Reality,Shadowsocks 2022
 
