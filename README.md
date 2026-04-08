@@ -4,7 +4,7 @@
 
 作者：ch-vpn  
 
-日期：2026-03-26
+日期：2026-04-08
 
 标签：Fnfun-VPN,科学上网, VPN, 翻墙,梯子,机场,Hysteria2,Vless+Reality,Hiddify,Karing
 
