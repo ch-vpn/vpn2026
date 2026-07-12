@@ -4,7 +4,7 @@
 
 作者：ch-vpn
 
-日期：2026-07-03
+日期：2026-07-12
 
 标签：Fnfun-VPN,科学上网, VPN, 翻墙,梯子,机场,Hysteria2,Vless+Reality,Karing,Hiddify
 
@@ -61,7 +61,7 @@
 
 - **Telegram**、**Twitter**、**WhatsApp**、**Facebook**、 **Insagram**、 **X**等平台促进全球社交与信息交流；
 
-- **ChatGPT**、**Gemini**、**Claude code**、**CodeX**、**Midjourney** 等新兴 AI 产品引领技术变革。
+- **ChatGPT**、**Gemini**、**Claude**、**CodeX**、**Midjourney** 等新兴 AI 产品引领技术变革。
 
 然而，这些优质服务在中国大陆均无法直接访问。  
 因此，**科学上网** 已成为希望拓宽视野、提升效率、保持国际接轨用户的必需工具。
@@ -71,9 +71,9 @@
 影视爱好者能第一时间追剧 **Netflix**、**Hulu**；  
 跨境商务用户可访问 **Google Maps**、**Pinterest** 做市场调研或行程规划。
 
-根据 2025 年的统计数据：
+根据 2026 年上半年的统计数据：
 
-- **约85%** 的用户使用科学上网使用 AI产品，例如：Gemini、ChatGPT、 Claude、Midjourney；
+- **约85%** 的用户使用科学上网使用 AI产品，例如：Gemini、ChatGPT、 Claude、Codex、Midjourney；
 
 - **约75%** 的用户用于Google搜索引擎检索；
 
