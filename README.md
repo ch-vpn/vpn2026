@@ -4,7 +4,7 @@
 
 作者：ch-vpn
 
-日期：2026-08-05
+日期：2026-08-11
 
 标签：Fnfun-VPN,科学上网, VPN, 翻墙,梯子,机场,Hysteria2,Vless+Reality,Karing,Hiddify
 
@@ -140,6 +140,8 @@
 
 - ⚡ **极速连接体验**：底层采用 Sing-box 核心，UDP 加速性能极佳；
 
+- ⚙️ **全面协议支持**：支持 mixed、socks、http、 shadowsocks、 vmess、 trojan、 naive、 hysteria、 shadowtls、 tuic、 hysteria2、 vless、 anytls等现代协议。
+
 - 🧱 **抗封锁能力强**：可配置分流规则，可通过前置/链式代理到海外住宅IP，避免Gemini跟Claude code等强手段封号，TUN模式+全局模式+hysteria2协议效果无敌；
 
 - 🔋 **资源占用低**：运行轻量，系统性能消耗极小；
@@ -163,7 +165,7 @@
 
 **优势亮点：**
 
-- ⚙️ **全面协议支持**：支持 Hysteria2、VLESS、Reality、Shadowsocks 2022 等现代协议。
+- ⚙️ **全面协议支持**：支持 mixed、socks、http、 shadowsocks、 vmess、 trojan、 naive、 hysteria、 shadowtls、 tuic、 hysteria2、 vless、 anytls 等现代协议。
 
 - 🚀 **自动测速与智能选路**：内置智能测速系统，可自动选择延迟最低的节点。
 
@@ -513,11 +515,11 @@ TUN 需要：
 
 在 2026 年的网络环境中，**Hiddify** 与 **Karing** 无疑是当前表现最出色的两款代理客户端：
 
-- 若你追求**极致性能与协议兼容性**：选择 **Hiddify**；
+- 若你追求**简洁高效、无需配置、稳定好用**：选择 **Hiddify**；
 
-- 若你希望**简洁高效、无需配置、稳定好用**：选择 **Karing**。
+- 若你希望**极致性能、功能更强大、协议兼容性**：选择 **Karing**。
 
-两者都与 [Fnfun VPN](https://b.htlink.top/s/qpjxN6je1rRG) 完美适配，支持其最新的 **Hysteria2** 与 **Shadowsocks 2022** 节点协议，  
+两者都与 [Fnfun VPN](https://b.htlink.top/s/qpjxN6je1rRG) 完美适配，支持其最新的 **Hysteria2** 与 **Vless** 节点协议，  
 为你提供 **更快、更稳、更安全** 的科学上网体验。
 
 ---
